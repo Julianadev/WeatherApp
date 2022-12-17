@@ -1,0 +1,17 @@
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\PrevisaoDoTempo.exe
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\PrevisaoDoTempo.deps.json
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\PrevisaoDoTempo.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\PrevisaoDoTempo.dll
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\PrevisaoDoTempo.pdb
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.csproj.CopyComplete
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.dll
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\refint\PrevisaoDoTempo.dll
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.pdb
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\PrevisaoDoTempo.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\PrevisaoDoTempo\obj\Debug\net7.0\ref\PrevisaoDoTempo.dll

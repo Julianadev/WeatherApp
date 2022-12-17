@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAYbZBUvMhxyG3iobcokY5tAxpbtojzm1VwIttpoBFZPT0O8sxcMImCgG+n/ryoAjiFOeNwLzlmSRrnKYn5TSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jully\\OneDrive\\Documentos\\PrevisaoDoTempo\\PrevisaoDoTempo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jully\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
